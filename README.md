@@ -1,1 +1,3 @@
-# Mini Workshop Gestão da Colaboração (vida em comunidade)
+# Mini Workshop 
+
+**Gestão da Colaboração (vida em comunidade)**
