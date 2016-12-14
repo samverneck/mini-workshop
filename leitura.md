@@ -1,4 +1,4 @@
-## artigos
+## Artigos
 
 * https://git-scm.com/book/pt-br/v1/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto
 
